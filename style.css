@@ -1,3 +1,9 @@
-body {
-    background-color: #f00;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.first-section {
+    background-color: #1f2937;
+    margin: 0;
 }
