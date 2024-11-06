@@ -24,6 +24,11 @@ li a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.content-container {
+    display: flex;
+}
+
 .first-section {
     background-color: #1f2937;
     margin: 0;
