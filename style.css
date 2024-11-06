@@ -2,8 +2,30 @@
     margin: 0;
     padding: 0;
 }
+.header {
+    font-family: Roboto, sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
 
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
 .first-section {
     background-color: #1f2937;
     margin: 0;
+    padding: 10px 50px;
 }
