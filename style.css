@@ -2,8 +2,16 @@
     margin: 0;
     padding: 0;
 }
+
+h1 {
+    font-family: 'Roboto',sans-serif;
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
 .header {
-    font-family: Roboto, sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: flex;
     justify-content: space-between;
 }
@@ -27,6 +35,14 @@ li a {
 
 .content-container {
     display: flex;
+    justify-content: space-between;
+}
+.content {
+    border: 1px solid red;
+}
+
+.img {
+    border: 1px solid green;
 }
 
 .first-section {
