@@ -39,14 +39,21 @@ li a {
 }
 .content {
     border: 1px solid red;
+    padding: 10px;
+    width: 400px;
 }
 
 .img {
     border: 1px solid green;
 }
 
+.para-one {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .first-section {
     background-color: #1f2937;
     margin: 0;
-    padding: 10px 50px;
+    padding: 10px 200px;
 }
