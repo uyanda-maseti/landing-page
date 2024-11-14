@@ -40,13 +40,14 @@ li a {
     margin-bottom: 100px;
 }
 .content {
-    border: 1px solid red;
+    
     padding: 10px;
     width: 400px;
 }
 
-.img {
-    border: 1px solid green;
+.img img {
+    
+    border-radius: 50%;
 }
 
 .para-one {
