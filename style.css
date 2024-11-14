@@ -8,6 +8,7 @@ h1 {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
+    margin-bottom: 20px;
 }
 
 .header {
@@ -53,6 +54,7 @@ li a {
 .para-one {
     font-size: 18px;
     color: #e5e7eb;
+    margin-bottom: 10px;
 }
 
 .first-section {
