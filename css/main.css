@@ -1,4 +1,4 @@
-* {
+body {
     background-color: #1F2937;
     font-family: 'Roboto', sans-serif;
     padding: 0;
@@ -32,7 +32,8 @@ a {
     display: flex;
     justify-content: center;
     gap: 320px;
-    margin: 70px 0;
+    margin: 100px 0;
+    
     
 }
 .content {
@@ -44,11 +45,12 @@ a {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin: 0;
     
 }
 .main-paragraph {
     font-size: 18px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     color: #E5E7EB;
 }
 .main-button {
@@ -63,4 +65,42 @@ a {
 
 img {
     border-radius: 50%;
+}
+
+.second-section {
+    background: white;
+    height: 600px;
+}
+.second-title {
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    padding: 30px;
+    
+}
+
+.div-container {
+    
+    display: flex;  
+    padding: 40px;
+    justify-content: center;
+    
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 10%;
+    border: 5px solid #3882F6;
+}
+.box-container {    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #1F2937;
+    width: 230px;
+    
 }
