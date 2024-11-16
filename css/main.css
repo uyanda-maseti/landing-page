@@ -104,3 +104,58 @@ img {
     width: 230px;
     
 }
+
+.third-section {
+    background-color: #E5E7EB;
+    padding: 200px;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.reference {
+    font-size: 25px;
+    float: right;
+    
+}
+
+.fourth-section {
+    background-color: #fff;
+    padding: 100px;
+    
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    color: #fff;
+    padding: 60px;
+    display: flex;
+    justify-content: space-around;    
+}
+.third-title {
+    font-size: 30px;
+    font-weight: 500;
+}
+.signup-text {
+    font-size: 20px;
+}
+
+.bottom-signup {
+    border: 5px solid #fff;
+    padding: 0 25px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10%;
+
+}
+
+footer {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+.copyright {
+    font-size: 20px;
+    color: #fff;
+}
