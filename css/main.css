@@ -64,7 +64,17 @@ a {
 }
 
 img {
-    border-radius: 50%;
+    
+}
+
+.box-container .box{
+    
+    overflow: hidden;
+}
+.box-container .box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .second-section {
